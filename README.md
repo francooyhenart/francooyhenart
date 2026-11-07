@@ -57,3 +57,6 @@ I'm an advanced Information Systems Engineering student from La Plata, Argentina
 <a href="mailto:franoyhenart07@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
+<a href="https://www.instagram.com/franco.oyhenart">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
