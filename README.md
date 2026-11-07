@@ -4,11 +4,12 @@
 
 <img src="assets/parrot.gif" width="30px" alt="parrot">&nbsp;***About me***
 
-I'm a 4th-year Information Systems Engineering student from La Plata, Argentina, and I work as a software developer. I build across the whole stack, from React and Next.js on the front end to Spring Boot, Django and Express on the back end, and I enjoy turning messy requirements into clean systems that actually work.
+I'm an advanced Information Systems Engineering student from La Plata, Argentina, and I work as a software developer. I build across the whole stack, from React and Next.js on the front end to Express and Django on the back end, and I enjoy turning messy requirements into clean systems that luckily work.
 
 - 💼 Most of my day-to-day code lives in private GitLab repos at work. Side projects are coming here soon.
-- 🌱 Currently learning software architecture and system design
-- 👯 Looking forward to collaborating on open source projects
+- 🌱 Currently learning Django
+- 🛠️ Improving my software architecture and system design skills
+- 🌎 Open to remote opportunities with US-based companies (UTC-3, great overlap with US hours)
 - 💬 Ask me about anything, I'm happy to help
 - 🧉 Powered by mate
 - 📫 Reach out to me at: <a href="mailto:franoyhenart07@gmail.com">franoyhenart07@gmail.com</a>
@@ -28,7 +29,6 @@ I'm a 4th-year Information Systems Engineering student from La Plata, Argentina,
   <img src="https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
