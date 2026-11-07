@@ -60,3 +60,16 @@ I'm an advanced Information Systems Engineering student from La Plata, Argentina
 <a href="https://www.instagram.com/franco.oyhenart">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
+
+<!-- GITHUB STATS: delete this line and the closing arrow to show them
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=francooyhenart&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francooyhenart&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=francooyhenart&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+</p>
+-->
